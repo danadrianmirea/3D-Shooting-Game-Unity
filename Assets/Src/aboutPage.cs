@@ -6,6 +6,6 @@ public class aboutPage : MonoBehaviour {
 
     private void Start()
     {
-        github.text = "https://github.com/rosdyana/MidTerm-Project-FPS";
+        github.text = "Cacat pansat";
     }
 }
